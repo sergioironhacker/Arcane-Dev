@@ -25,5 +25,5 @@ Si te apasiona el desarrollo web y el universo de **Arcane**, ¡las contribucion
 Puedes hacer un **fork** del repositorio, trabajar en mejoras y enviar un *pull request*.  
 
 <p align="center">
-  <img src="[https://www.arcane.com/assets/images/arcane-logo.png](https://upload.wikimedia.org/wikipedia/commons/f/f2/Arcane_Title_Text.png)" alt="Arcane Logo" width="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Arcane_Title_Text.png" alt="Arcane Logo" width="400">
 </p>
