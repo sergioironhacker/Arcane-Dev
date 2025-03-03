@@ -27,6 +27,6 @@ Puedes hacer un **fork** del repositorio, trabajar en mejoras y enviar un *pull 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Arcane_Title_Text.png" alt="Arcane Logo" width="400">
 </p>
- <img src="[https://upload.wikimedia.org/wikipedia/commons/f/f2/Arcane_Title_Text.png](https://github.com/sergioironhacker/Arcane-Dev/blob/main/imgMain.png)" alt="Arcane Logo" width="400">
+ <img src="(https://github.com/sergioironhacker/Arcane-Dev/blob/main/imgMain.png)" alt="Arcane Logo" width="400">
 
 
